@@ -3,8 +3,8 @@ class Main {
     public static void main(String[] args) {
         Mhs mhs = new Mhs("ini_username", "ini_password");
 
-        mhs.setNama("Endah Arum Sari");
-        mhs.setNim("G.111.20.0041");
+        mhs.setNama("Muhammad Rifqi Nazarudin");
+        mhs.setNim("G.111.19.0050");
         mhs.setSmt(6);
 
         System.out.println("Nama Mhs: " + mhs.getNama());
